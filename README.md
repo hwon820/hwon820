@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=aacceb&text=HaeWon%20GitHub🌊&fontSize=70&fontAlignY=50&fontAlign=50&height=200)  
+![header](https://capsule-render.vercel.app/api?type=wave&text=HaeWon%20GitHub🌊&fontSize=70&fontAlignY=50&fontAlign=50&height=200&theme="gruvbox_light")  
 
 <br>
 
