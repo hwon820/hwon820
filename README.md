@@ -4,7 +4,6 @@
 
 <br>
 
-
 ## 📊 GitHub Stat
   
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/hwon820)
@@ -17,8 +16,9 @@
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hwon820&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=74%/>
-</a>
- 
+</a>  
+
+<br> 
 <br>
 
 ## 📚 PortFolio
@@ -35,9 +35,8 @@
     <br>
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <br>
-</div><br>
-</div>
-
+</div><br>  
+  
 ## 🔨 Once I've used
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  
